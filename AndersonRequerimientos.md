@@ -55,4 +55,6 @@ Una empresa busca desarrollar un sistema de Big Data Analytics para analizar en 
 - **Alto impacto:** Recolección y análisis en tiempo real, generación de reportes y alertas.
 - **Mediano impacto:** Personalización de la interfaz y configuración avanzada de reportes.
 - **Bajo impacto:** Integración con plataformas adicionales para expansión futura.
-Commit new file
+  
+Commit changes
+
